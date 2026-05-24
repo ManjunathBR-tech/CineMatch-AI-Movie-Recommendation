@@ -26,3 +26,21 @@ CineMatch is an AI-powered movie recommendation system built using Python, Tkint
 
 ```bash
 python main.py
+
+# 📸 Screenshots
+
+## 🔐 Login Page
+
+![Login](login.png)
+
+---
+
+## 🎬 Recommendation Dashboard
+
+![Dashboard](dashboard.png)
+
+---
+
+## 📊 Analytics Dashboard
+
+![Analytics](analytics.png)
